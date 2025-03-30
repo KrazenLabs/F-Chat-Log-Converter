@@ -19,6 +19,8 @@ More importantly: it generates much nicer HTML documents which are easy to read 
 
 ## How to use
 
+- For the moment, only Windows is officially supported.
+- Make sure you have [.NET 8.0]([url](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.14-windows-x64-installer)) installed.
 - Download the release version, unzip and run the executable. It should automatically finish within a couple of seconds.
 - The HTML documents will be created in a HTML directory within the appdata/roaming/f-chat/<character>/logs directory. Just open them with your browser and enjoy!
 - If you have new or changed logs, just run the application again and it will re-generate the documents accordingly.
