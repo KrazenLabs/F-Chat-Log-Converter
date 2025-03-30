@@ -1,6 +1,6 @@
 # F-Chat-Log-Converter
 
-The HTML exporter included in F-Chat's desktop client is somewhat lacking, as the generated files are annoying to browse and use and it is rather slow and tends to crash on character with hundreds of logs.
+The HTML exporter included in [F-Chat's desktop client](https://wiki.f-list.net/F-Chat_3.0) is somewhat lacking, as the generated files are annoying to browse and use and it is rather slow and tends to crash on character with hundreds of logs.
 
 This custom HTML exporter runs significantly faster and converts all logs for all characters within a matter of seconds, even with thousands of logs.
 
